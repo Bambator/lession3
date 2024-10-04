@@ -1,6 +1,6 @@
-import paygame
+import pygame
 
-paygame.init()
+pygame.init()
 
 running = True
 while running:
