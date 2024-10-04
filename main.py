@@ -1,7 +1,6 @@
 import pygame
 import random
-
-paygame.init()
+pygame.init()
 
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
